@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 9a34d22809f7b1745868c6db91c9366a
+timeCreated: 1489883364
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Grobulimp_rig:jnt_belly01
+    100004: Grobulimp_rig:jnt_bellynub
+    100006: Grobulimp_rig:jnt_head
+    100008: Grobulimp_rig:jnt_headnub
+    100010: Grobulimp_rig:jnt_L_clavical
+    100012: Grobulimp_rig:jnt_L_ear01
+    100014: Grobulimp_rig:jnt_L_ear02
+    100016: Grobulimp_rig:jnt_L_ear03
+    100018: Grobulimp_rig:jnt_L_earnub
+    100020: Grobulimp_rig:jnt_L_elbow
+    100022: Grobulimp_rig:jnt_L_foot
+    100024: Grobulimp_rig:jnt_L_hand
+    100026: Grobulimp_rig:jnt_L_hand02
+    100028: Grobulimp_rig:jnt_L_hip
+    100030: Grobulimp_rig:jnt_L_index01
+    100032: Grobulimp_rig:jnt_L_index02
+    100034: Grobulimp_rig:jnt_L_indexnub
+    100036: Grobulimp_rig:jnt_L_lanyard
+    100038: Grobulimp_rig:jnt_L_lanyardnub
+    100040: Grobulimp_rig:jnt_L_middle_finger01
+    100042: Grobulimp_rig:jnt_L_middle_finger02
+    100044: Grobulimp_rig:jnt_L_middle_fingernub
+    100046: Grobulimp_rig:jnt_L_pinky01
+    100048: Grobulimp_rig:jnt_L_pinky02
+    100050: Grobulimp_rig:jnt_L_pinkynub
+    100052: Grobulimp_rig:jnt_L_shin
+    100054: Grobulimp_rig:jnt_L_shoulder
+    100056: Grobulimp_rig:jnt_L_thigh
+    100058: Grobulimp_rig:jnt_L_thumb01
+    100060: Grobulimp_rig:jnt_L_thumb02
+    100062: Grobulimp_rig:jnt_L_thumb03
+    100064: Grobulimp_rig:jnt_L_thumbnub
+    100066: Grobulimp_rig:jnt_L_toes
+    100068: Grobulimp_rig:jnt_L_toesnub
+    100070: Grobulimp_rig:jnt_L_wristtwist
+    100072: Grobulimp_rig:jnt_R_clavical
+    100074: Grobulimp_rig:jnt_R_ear01
+    100076: Grobulimp_rig:jnt_R_ear02
+    100078: Grobulimp_rig:jnt_R_ear03
+    100080: Grobulimp_rig:jnt_R_earnub
+    100082: Grobulimp_rig:jnt_R_elbow
+    100084: Grobulimp_rig:jnt_R_foot
+    100086: Grobulimp_rig:jnt_R_hand
+    100088: Grobulimp_rig:jnt_R_hand02
+    100090: Grobulimp_rig:jnt_R_hip
+    100092: Grobulimp_rig:jnt_R_index01
+    100094: Grobulimp_rig:jnt_R_index02
+    100096: Grobulimp_rig:jnt_R_indexnub
+    100098: Grobulimp_rig:jnt_R_middle_finger01
+    100100: Grobulimp_rig:jnt_R_middle_finger02
+    100102: Grobulimp_rig:jnt_R_middle_fingernub
+    100104: Grobulimp_rig:jnt_R_pinky01
+    100106: Grobulimp_rig:jnt_R_pinky02
+    100108: Grobulimp_rig:jnt_R_pinkynub
+    100110: Grobulimp_rig:jnt_R_shin
+    100112: Grobulimp_rig:jnt_R_shoulder
+    100114: Grobulimp_rig:jnt_R_thigh
+    100116: Grobulimp_rig:jnt_R_thumb01
+    100118: Grobulimp_rig:jnt_R_thumb02
+    100120: Grobulimp_rig:jnt_R_thumb03
+    100122: Grobulimp_rig:jnt_R_thumbnub
+    100124: Grobulimp_rig:jnt_R_toes
+    100126: Grobulimp_rig:jnt_R_toesnub
+    100128: Grobulimp_rig:jnt_R_wristtwist
+    100130: Grobulimp_rig:jnt_root
+    100132: Grobulimp_rig:jnt_spine01
+    100134: Grobulimp_rig:jnt_spine02
+    100136: Grobulimp_rig:jnt_spine03
+    100138: Grobulimp_rig:jnt_tie01
+    100140: Grobulimp_rig:jnt_tie02
+    100142: Grobulimp_rig:jnt_tie03
+    100144: Grobulimp_rig:jnt_tienub
+    400000: //RootNode
+    400002: Grobulimp_rig:jnt_belly01
+    400004: Grobulimp_rig:jnt_bellynub
+    400006: Grobulimp_rig:jnt_head
+    400008: Grobulimp_rig:jnt_headnub
+    400010: Grobulimp_rig:jnt_L_clavical
+    400012: Grobulimp_rig:jnt_L_ear01
+    400014: Grobulimp_rig:jnt_L_ear02
+    400016: Grobulimp_rig:jnt_L_ear03
+    400018: Grobulimp_rig:jnt_L_earnub
+    400020: Grobulimp_rig:jnt_L_elbow
+    400022: Grobulimp_rig:jnt_L_foot
+    400024: Grobulimp_rig:jnt_L_hand
+    400026: Grobulimp_rig:jnt_L_hand02
+    400028: Grobulimp_rig:jnt_L_hip
+    400030: Grobulimp_rig:jnt_L_index01
+    400032: Grobulimp_rig:jnt_L_index02
+    400034: Grobulimp_rig:jnt_L_indexnub
+    400036: Grobulimp_rig:jnt_L_lanyard
+    400038: Grobulimp_rig:jnt_L_lanyardnub
+    400040: Grobulimp_rig:jnt_L_middle_finger01
+    400042: Grobulimp_rig:jnt_L_middle_finger02
+    400044: Grobulimp_rig:jnt_L_middle_fingernub
+    400046: Grobulimp_rig:jnt_L_pinky01
+    400048: Grobulimp_rig:jnt_L_pinky02
+    400050: Grobulimp_rig:jnt_L_pinkynub
+    400052: Grobulimp_rig:jnt_L_shin
+    400054: Grobulimp_rig:jnt_L_shoulder
+    400056: Grobulimp_rig:jnt_L_thigh
+    400058: Grobulimp_rig:jnt_L_thumb01
+    400060: Grobulimp_rig:jnt_L_thumb02
+    400062: Grobulimp_rig:jnt_L_thumb03
+    400064: Grobulimp_rig:jnt_L_thumbnub
+    400066: Grobulimp_rig:jnt_L_toes
+    400068: Grobulimp_rig:jnt_L_toesnub
+    400070: Grobulimp_rig:jnt_L_wristtwist
+    400072: Grobulimp_rig:jnt_R_clavical
+    400074: Grobulimp_rig:jnt_R_ear01
+    400076: Grobulimp_rig:jnt_R_ear02
+    400078: Grobulimp_rig:jnt_R_ear03
+    400080: Grobulimp_rig:jnt_R_earnub
+    400082: Grobulimp_rig:jnt_R_elbow
+    400084: Grobulimp_rig:jnt_R_foot
+    400086: Grobulimp_rig:jnt_R_hand
+    400088: Grobulimp_rig:jnt_R_hand02
+    400090: Grobulimp_rig:jnt_R_hip
+    400092: Grobulimp_rig:jnt_R_index01
+    400094: Grobulimp_rig:jnt_R_index02
+    400096: Grobulimp_rig:jnt_R_indexnub
+    400098: Grobulimp_rig:jnt_R_middle_finger01
+    400100: Grobulimp_rig:jnt_R_middle_finger02
+    400102: Grobulimp_rig:jnt_R_middle_fingernub
+    400104: Grobulimp_rig:jnt_R_pinky01
+    400106: Grobulimp_rig:jnt_R_pinky02
+    400108: Grobulimp_rig:jnt_R_pinkynub
+    400110: Grobulimp_rig:jnt_R_shin
+    400112: Grobulimp_rig:jnt_R_shoulder
+    400114: Grobulimp_rig:jnt_R_thigh
+    400116: Grobulimp_rig:jnt_R_thumb01
+    400118: Grobulimp_rig:jnt_R_thumb02
+    400120: Grobulimp_rig:jnt_R_thumb03
+    400122: Grobulimp_rig:jnt_R_thumbnub
+    400124: Grobulimp_rig:jnt_R_toes
+    400126: Grobulimp_rig:jnt_R_toesnub
+    400128: Grobulimp_rig:jnt_R_wristtwist
+    400130: Grobulimp_rig:jnt_root
+    400132: Grobulimp_rig:jnt_spine01
+    400134: Grobulimp_rig:jnt_spine02
+    400136: Grobulimp_rig:jnt_spine03
+    400138: Grobulimp_rig:jnt_tie01
+    400140: Grobulimp_rig:jnt_tie02
+    400142: Grobulimp_rig:jnt_tie03
+    400144: Grobulimp_rig:jnt_tienub
+    7400000: Dance
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Dance
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Grobulimp_rig:jnt_root
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_L_hip
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_L_hip/Grobulimp_rig:jnt_L_thigh
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_L_hip/Grobulimp_rig:jnt_L_thigh/Grobulimp_rig:jnt_L_shin
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_L_hip/Grobulimp_rig:jnt_L_thigh/Grobulimp_rig:jnt_L_shin/Grobulimp_rig:jnt_L_foot
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_L_hip/Grobulimp_rig:jnt_L_thigh/Grobulimp_rig:jnt_L_shin/Grobulimp_rig:jnt_L_foot/Grobulimp_rig:jnt_L_toes
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_L_hip/Grobulimp_rig:jnt_L_thigh/Grobulimp_rig:jnt_L_shin/Grobulimp_rig:jnt_L_foot/Grobulimp_rig:jnt_L_toes/Grobulimp_rig:jnt_L_toesnub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_R_hip
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_R_hip/Grobulimp_rig:jnt_R_thigh
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_R_hip/Grobulimp_rig:jnt_R_thigh/Grobulimp_rig:jnt_R_shin
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_R_hip/Grobulimp_rig:jnt_R_thigh/Grobulimp_rig:jnt_R_shin/Grobulimp_rig:jnt_R_foot
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_R_hip/Grobulimp_rig:jnt_R_thigh/Grobulimp_rig:jnt_R_shin/Grobulimp_rig:jnt_R_foot/Grobulimp_rig:jnt_R_toes
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_R_hip/Grobulimp_rig:jnt_R_thigh/Grobulimp_rig:jnt_R_shin/Grobulimp_rig:jnt_R_foot/Grobulimp_rig:jnt_R_toes/Grobulimp_rig:jnt_R_toesnub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_belly01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_belly01/Grobulimp_rig:jnt_bellynub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_head
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_head/Grobulimp_rig:jnt_headnub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_head/Grobulimp_rig:jnt_L_ear01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_head/Grobulimp_rig:jnt_L_ear01/Grobulimp_rig:jnt_L_ear02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_head/Grobulimp_rig:jnt_L_ear01/Grobulimp_rig:jnt_L_ear02/Grobulimp_rig:jnt_L_ear03
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_head/Grobulimp_rig:jnt_L_ear01/Grobulimp_rig:jnt_L_ear02/Grobulimp_rig:jnt_L_ear03/Grobulimp_rig:jnt_L_earnub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_head/Grobulimp_rig:jnt_R_ear01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_head/Grobulimp_rig:jnt_R_ear01/Grobulimp_rig:jnt_R_ear02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_head/Grobulimp_rig:jnt_R_ear01/Grobulimp_rig:jnt_R_ear02/Grobulimp_rig:jnt_R_ear03
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_head/Grobulimp_rig:jnt_R_ear01/Grobulimp_rig:jnt_R_ear02/Grobulimp_rig:jnt_R_ear03/Grobulimp_rig:jnt_R_earnub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_index01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_index01/Grobulimp_rig:jnt_L_index02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_index01/Grobulimp_rig:jnt_L_index02/Grobulimp_rig:jnt_L_indexnub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_middle_finger01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_middle_finger01/Grobulimp_rig:jnt_L_middle_finger02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_middle_finger01/Grobulimp_rig:jnt_L_middle_finger02/Grobulimp_rig:jnt_L_middle_fingernub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_pinky01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_pinky01/Grobulimp_rig:jnt_L_pinky02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_pinky01/Grobulimp_rig:jnt_L_pinky02/Grobulimp_rig:jnt_L_pinkynub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_thumb01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_thumb01/Grobulimp_rig:jnt_L_thumb02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_thumb01/Grobulimp_rig:jnt_L_thumb02/Grobulimp_rig:jnt_L_thumb03
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_clavical/Grobulimp_rig:jnt_L_shoulder/Grobulimp_rig:jnt_L_elbow/Grobulimp_rig:jnt_L_wristtwist/Grobulimp_rig:jnt_L_hand/Grobulimp_rig:jnt_L_hand02/Grobulimp_rig:jnt_L_thumb01/Grobulimp_rig:jnt_L_thumb02/Grobulimp_rig:jnt_L_thumb03/Grobulimp_rig:jnt_L_thumbnub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_lanyard
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_L_lanyard/Grobulimp_rig:jnt_L_lanyardnub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_index01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_index01/Grobulimp_rig:jnt_R_index02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_index01/Grobulimp_rig:jnt_R_index02/Grobulimp_rig:jnt_R_indexnub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_middle_finger01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_middle_finger01/Grobulimp_rig:jnt_R_middle_finger02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_middle_finger01/Grobulimp_rig:jnt_R_middle_finger02/Grobulimp_rig:jnt_R_middle_fingernub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_pinky01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_pinky01/Grobulimp_rig:jnt_R_pinky02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_pinky01/Grobulimp_rig:jnt_R_pinky02/Grobulimp_rig:jnt_R_pinkynub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_thumb01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_thumb01/Grobulimp_rig:jnt_R_thumb02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_thumb01/Grobulimp_rig:jnt_R_thumb02/Grobulimp_rig:jnt_R_thumb03
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_R_clavical/Grobulimp_rig:jnt_R_shoulder/Grobulimp_rig:jnt_R_elbow/Grobulimp_rig:jnt_R_wristtwist/Grobulimp_rig:jnt_R_hand/Grobulimp_rig:jnt_R_hand02/Grobulimp_rig:jnt_R_thumb01/Grobulimp_rig:jnt_R_thumb02/Grobulimp_rig:jnt_R_thumb03/Grobulimp_rig:jnt_R_thumbnub
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_tie01
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_tie01/Grobulimp_rig:jnt_tie02
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_tie01/Grobulimp_rig:jnt_tie02/Grobulimp_rig:jnt_tie03
+        weight: 1
+      - path: Grobulimp_rig:jnt_root/Grobulimp_rig:jnt_spine01/Grobulimp_rig:jnt_spine02/Grobulimp_rig:jnt_spine03/Grobulimp_rig:jnt_tie01/Grobulimp_rig:jnt_tie02/Grobulimp_rig:jnt_tie03/Grobulimp_rig:jnt_tienub
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
