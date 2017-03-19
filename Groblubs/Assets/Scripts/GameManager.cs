@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour
 
     public Text minionDisplay;
     public Text treasureDisplay;
+    public Text totalDisplay;
     private int numMinions = 0;
 
     void OnEnable()
@@ -57,6 +58,9 @@ public class GameManager : MonoBehaviour
                     break;
                 case 1:
                     Stage1();
+                    break;
+                case 2:
+                    Stage2();
                     break;
                 default:
                     break;
@@ -107,7 +111,10 @@ public class GameManager : MonoBehaviour
 
         value = numMinions * minionValue;
 
-        minionDisplay.text = "$" + string.Format("{0:n0}", value);
+        minionDisplay.text = "-$" + string.Format("{0:n0}", value);
+
+        totalDisplay.text = "$" + string.Format("{0:n0}", treasureValue - value);
+        treasureDisplay.text = "$" + string.Format("{0:n0}", treasureValue);
 
         if (Input.GetButtonDown("Submit"))
         {
@@ -122,7 +129,7 @@ public class GameManager : MonoBehaviour
         if(Input.GetButtonDown("Submit"))
         {
             Time.timeScale = 1.0f;
-            SceneManager.LoadScene("Main");
+            SceneManager.LoadScene("Spikes");
         }
     }
 

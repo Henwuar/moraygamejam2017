@@ -19,7 +19,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4447534699338822}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_index02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34,7 +34,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4113095887343794}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_ear03_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49,7 +49,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4436579210887040}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_ear03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64,7 +64,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4751003220081242}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_thumb03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79,7 +79,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4342894691781170}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_lanyard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4485101168494342}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_hand_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -109,7 +109,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4379696018574582}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_shin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -124,7 +124,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4674831836029452}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -139,7 +139,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4045820662612732}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_index01_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -154,7 +154,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4519513958765840}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_spine01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -169,7 +169,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4386060258193878}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_pinkynub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -184,7 +184,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4372945062033274}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_lanyard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -200,7 +200,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4241915827659492}
   - component: {fileID: 95302760435505976}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_skeletalmesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -215,7 +215,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4240311676907068}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_wristtwist
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -230,7 +230,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4330181031801620}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:polySurface30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -245,7 +245,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4180326419060168}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_clavical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -260,7 +260,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4474067485478410}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_belly01_sdk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -275,7 +275,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4760685694475958}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_shoulder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -290,7 +290,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4200127991101814}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_toesnub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -305,7 +305,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4530841681411026}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_pinky02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -320,7 +320,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4927859072793342}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_spine01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -335,7 +335,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4489641848971946}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_root_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -350,7 +350,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4097619270084206}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_lanyard_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -365,7 +365,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4150513668465184}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_thumb02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -380,7 +380,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4170477710702146}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_thigh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -395,7 +395,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4936232910322698}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -410,7 +410,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4406013182568540}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_elbow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -425,7 +425,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4195869957823786}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_middle_finger02_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -440,7 +440,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4380894136682530}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_toes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -455,7 +455,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4816040153088524}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_tienub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -470,7 +470,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4023437923595612}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_shoulder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -485,7 +485,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4683048129502334}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_root
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -500,7 +500,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4412600965188824}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:transform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -515,7 +515,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4184202277509652}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_hip_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -530,7 +530,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4501491826655284}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_thumb03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -545,7 +545,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4363654974375520}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_belly01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -560,7 +560,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4459299488892538}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_index01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -575,7 +575,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4084258619734280}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_thumb02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -590,7 +590,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4237000767614210}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_ear01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -605,7 +605,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4117753321051842}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_ear01_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -620,7 +620,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4931279166169988}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_tie01_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -635,7 +635,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4006967790981068}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_toes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -650,7 +650,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4960254802381502}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_index01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -665,7 +665,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4103818891932100}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_spine02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -680,7 +680,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4639714631919752}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_ear02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -695,7 +695,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4542585266420156}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_middle_finger02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -710,7 +710,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4033153587379752}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_wristtwist
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -725,7 +725,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4115297315653440}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_tie01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -740,7 +740,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4087260371882690}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_middle_fingernub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -755,7 +755,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4337221732816008}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_middle_finger02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -770,7 +770,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4398004315722832}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_master_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -785,7 +785,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4967519654495488}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_hip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -800,7 +800,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4252124295361818}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_ear03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -815,7 +815,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4746181478275426}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_thumb03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -830,7 +830,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4647817989090560}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_toes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -845,7 +845,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4996552592726266}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_thumb03_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -860,7 +860,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4519930005387712}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_middle_finger01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -876,7 +876,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4174452688436992}
   - component: {fileID: 137685841052247042}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:polySurface21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -891,7 +891,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4499212384834278}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_foot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -906,7 +906,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4233920525586658}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -921,7 +921,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4418643690776558}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_elbow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -936,7 +936,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4446196837675112}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_belly01_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -951,7 +951,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4048749849543914}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_index01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -966,7 +966,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4266153354861954}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_earnub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -981,7 +981,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4667488198523694}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_foot_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -996,7 +996,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4728459274601746}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_pinky01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1011,7 +1011,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4608948915974040}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_index02_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1026,7 +1026,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4094590349273742}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_middle_finger02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1041,7 +1041,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4368212865121778}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_headnub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1057,7 +1057,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4757951794793930}
   - component: {fileID: 137081023059701610}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:polySurface31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1072,7 +1072,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4044136069338196}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_hip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1087,7 +1087,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4752091096575100}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_clavical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1102,7 +1102,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4576104906034736}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_middle_finger02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1117,7 +1117,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4574013650357686}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_foot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1132,7 +1132,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4023337172170590}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_ear03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1147,7 +1147,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4593812245359032}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_clavical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1162,7 +1162,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4128825379998376}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1177,7 +1177,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4015515302799700}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_clavical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1192,7 +1192,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4189559094060718}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_foot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1207,7 +1207,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4940241709888504}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_ear02_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1222,7 +1222,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4648367372444804}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_pinky02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1237,7 +1237,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4572414345308470}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_indexnub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1252,7 +1252,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4918414927538936}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_tie03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1267,7 +1267,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4344995829130864}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_root
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1282,7 +1282,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4707630134117704}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_hand02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1297,7 +1297,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4698901227527180}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_belly01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1312,7 +1312,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4253754118488608}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_middle_finger01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1327,7 +1327,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4398290356516722}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_clavical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1342,7 +1342,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4214215702271964}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_tie03_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1357,7 +1357,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4308624396632146}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_pinky01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1372,7 +1372,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4756377787291590}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1387,7 +1387,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4486427429306260}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_hip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1402,7 +1402,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4177148308025250}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_thumb02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1417,7 +1417,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4868588023718902}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_ear03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1432,7 +1432,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4013066730712880}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_middle_finger01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1447,7 +1447,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4727262177837692}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_index02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1462,7 +1462,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4478623304452412}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_tie01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1477,7 +1477,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4161692988913702}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_shin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1513,7 +1513,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4097872972683638}
   - component: {fileID: 137427933627997530}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:pCube1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1528,7 +1528,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4305458666378074}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_toes_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1560,7 +1560,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4091934240514764}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_foot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1575,7 +1575,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4442548144097246}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_clavical_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1590,7 +1590,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4890033407694444}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_indexnub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1605,7 +1605,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4516918088614942}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_toes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1620,7 +1620,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4847620262817090}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_spine03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1635,7 +1635,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4292757400665696}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_thigh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1650,7 +1650,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4949849660996494}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_index02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1665,7 +1665,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4769228980279704}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_pinky01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1680,7 +1680,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4233903711094980}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_index02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1695,7 +1695,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4785699684687572}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_thumb01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1710,7 +1710,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4049586789850380}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_foot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1725,7 +1725,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4268622482503672}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_ear01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1740,7 +1740,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4109202120758620}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_thumb02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1755,7 +1755,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4912259929760334}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_thumb01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1770,7 +1770,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4207109501340528}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_earnub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1785,7 +1785,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4536333444259528}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_spine03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1800,7 +1800,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4140901911353972}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_ear01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1815,7 +1815,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4559021832121154}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_tie03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1830,7 +1830,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4012619828098812}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_hand02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1845,7 +1845,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4022961406820614}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_pinky02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1860,7 +1860,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4493170237935410}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_bellynub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1875,7 +1875,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4767325784705376}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1890,7 +1890,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4830878285393886}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_thumb01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1905,8 +1905,24 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4665715279904672}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_spine01_offset
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1731408471880284
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4476939140963660}
+  - component: {fileID: 119524916421303872}
+  m_Layer: 0
+  m_Name: Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1920,7 +1936,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4742987823724498}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_thumb03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1935,7 +1951,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4790443992960612}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_spine03_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1950,7 +1966,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4011445879800100}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_ear01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1965,7 +1981,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4739517251764882}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_ear02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1980,7 +1996,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4128262902705852}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_tie02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1995,7 +2011,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4679205451460268}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_hip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2010,7 +2026,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4164209147314696}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_thumb01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2025,7 +2041,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4517571733929158}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_thumb02_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2040,7 +2056,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4259461909094836}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:transform3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2055,7 +2071,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4911111513904220}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:polySurface31 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2070,7 +2086,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4389660699167894}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_R_thumb01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2085,7 +2101,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4688229910100006}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_pinky02_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2100,7 +2116,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4368150469508100}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_spine02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2115,7 +2131,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4052325522962508}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_ear03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2130,7 +2146,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4858909152674848}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_pinky01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2145,7 +2161,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4212596078195936}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_head_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2160,7 +2176,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4548199677006998}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_pinky02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2176,7 +2192,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4442999021039194}
   - component: {fileID: 137016747104450452}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:polySurface8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2191,7 +2207,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4539595652049510}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_index01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2206,7 +2222,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4701001761624004}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_ear02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2221,7 +2237,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4624384524339290}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_pinkynub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2236,7 +2252,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4994867844757642}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_pinky02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2251,7 +2267,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4256702239273720}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_spine02_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2266,7 +2282,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4576556334211522}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2281,7 +2297,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4981221686666542}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_tie02_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2296,7 +2312,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4306638075264170}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_thumbnub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2311,7 +2327,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4780891487385394}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_ear02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2326,7 +2342,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4512428923997970}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_index02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2341,7 +2357,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4878130113986938}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_thumbnub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2356,7 +2372,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4328251818636168}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_middle_finger01_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2371,7 +2387,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4147375312896082}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:polySurface32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2386,7 +2402,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4898616577081968}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_middle_finger01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2401,7 +2417,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4756896351584122}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_pinky01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2416,7 +2432,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4227299512702314}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_thumb02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2431,7 +2447,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4981453780531724}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_index01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2446,7 +2462,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4412017902546970}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_thumb01_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2461,7 +2477,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4230843505421302}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_ear01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2476,7 +2492,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4342096900546144}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_master
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2491,7 +2507,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4073187160069414}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_tie02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2506,7 +2522,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4571439921404694}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_toesnub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2521,7 +2537,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4979825478603356}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_middle_fingernub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2536,7 +2552,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4921797177668678}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:transform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2551,7 +2567,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4434977747722208}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:grp_L_pinky01_offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2566,7 +2582,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4674903846914358}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_hip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2581,7 +2597,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4456691076009960}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_middle_finger01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2596,7 +2612,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4761008186740132}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_lanyardnub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2611,7 +2627,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4865367104371126}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_R_thumb03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2626,7 +2642,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4012433201813210}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_L_middle_finger02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2641,7 +2657,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4144812062961774}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:ctrl_L_toes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2656,7 +2672,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4663981950504820}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grobulimp_rig:jnt_R_ear02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2811,11 +2827,12 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1618617460184458}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -1.0838706, y: 2.5, z: 0.13532329}
+  m_LocalPosition: {x: -9.183032, y: 2.5, z: 0.8526716}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4241915827659492}
   - {fileID: 4602295968338694}
+  - {fileID: 4476939140963660}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
@@ -3963,6 +3980,19 @@ Transform:
   - {fileID: 4698901227527180}
   m_Father: {fileID: 4446196837675112}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4476939140963660
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1731408471880284}
+  m_LocalRotation: {x: 0.50000006, y: -0.49999997, z: 0.50000006, w: 0.49999997}
+  m_LocalPosition: {x: 0, y: 2, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4034524348611886}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4478623304452412
 Transform:
@@ -5215,6 +5245,24 @@ MonoBehaviour:
   turnSpeed: 10
   grabDistance: 1
   spawnTimer: 1
+--- !u!119 &119524916421303872
+Projector:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1731408471880284}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_NearClipPlane: 0.1
+  m_FarClipPlane: 10
+  m_FieldOfView: 30
+  m_AspectRatio: 1
+  m_Orthographic: 1
+  m_OrthographicSize: 0.5
+  m_Material: {fileID: 2100000, guid: c8c80c5b03f5c7e40b07eb2170e667e5, type: 2}
+  m_IgnoreLayers:
+    serializedVersion: 2
+    m_Bits: 1280
 --- !u!136 &136715275016256660
 CapsuleCollider:
   m_ObjectHideFlags: 1
@@ -5565,7 +5613,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -1738041473
+  randomSeed: -324981495
   InitialModule:
     serializedVersion: 3
     enabled: 1

@@ -23,6 +23,7 @@ public class MinionMovement : MonoBehaviour
     private Quaternion targetRotation;
     private bool spawned = false;
     private Animator animator;
+    private Transform projector;
 
 	// Use this for initialization
 	void Start ()
@@ -31,7 +32,8 @@ public class MinionMovement : MonoBehaviour
         body.constraints = RigidbodyConstraints.FreezePositionZ;
         body.freezeRotation = true;
         targetRotation = transform.rotation;
-        
+        projector = transform.FindChild("Shadow");
+
 
         if (player == 1)
         {
@@ -54,6 +56,8 @@ public class MinionMovement : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
+        projector.position = transform.position + Vector3.up * 2;
+        projector.LookAt(transform.position-Vector3.up);
         if(!spawned)
         {
             if(animator.GetCurrentAnimatorStateInfo(0).IsName("Idle"))
@@ -211,6 +215,7 @@ public class MinionMovement : MonoBehaviour
         gameObject.layer = LayerMask.NameToLayer("Body");
         body.mass = 1.0f;
         animator.SetBool("Dead", true);
+        projector.gameObject.SetActive(false);
 
         Transform blood = transform.FindChild("Blood");
         if (blood)

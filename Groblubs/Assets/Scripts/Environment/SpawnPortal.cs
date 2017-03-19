@@ -41,6 +41,11 @@ public class SpawnPortal : MonoBehaviour
         //Play();
 	}
 	
+    void OnAwake()
+    {
+        Start();
+    }
+
 	// Update is called once per frame
 	void Update ()
     {
@@ -89,7 +94,8 @@ public class SpawnPortal : MonoBehaviour
         {
             particles.Play();
             inOut = true;
-            targetScales.Enqueue(1.2f);
+            targetScales = new Queue<float>();
+            //targetScales.Enqueue(1.2f);
             targetScales.Enqueue(1.0f);
             speed = scaleInSpeed;
             lifeTimer = lifetime;
@@ -99,7 +105,7 @@ public class SpawnPortal : MonoBehaviour
     void PlayBackDown()
     {
         inOut = false;
-        //targetScales.Enqueue(1.2f);
+        targetScales.Enqueue(1.2f);
         targetScales.Enqueue(0.0f);
         speed = scaleOutSpeed;
     }
