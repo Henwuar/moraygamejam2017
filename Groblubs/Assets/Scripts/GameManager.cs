@@ -129,7 +129,7 @@ public class GameManager : MonoBehaviour
         if(Input.GetButtonDown("Submit"))
         {
             Time.timeScale = 1.0f;
-            SceneManager.LoadScene("Spikes");
+            SceneManager.LoadScene("Menu");
         }
     }
 

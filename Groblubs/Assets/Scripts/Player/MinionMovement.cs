@@ -121,12 +121,12 @@ public class MinionMovement : MonoBehaviour
                     {
                         onGround = false;
                     }
-                    else
+                    else if(hit.collider.tag != "Hazard" && hit.collider.tag != "Water")
                     {
                         onGround = true;
                     }
                 }
-                else
+                else if(hit.collider.tag != "Hazard" && hit.collider.tag != "Water")
                 {
                     onGround = true;
                 }
