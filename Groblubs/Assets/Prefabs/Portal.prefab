@@ -254,7 +254,7 @@ MonoBehaviour:
   rotationSpeed2: -180
   scaleInSpeed: 2
   scaleOutSpeed: 5
-  lifetime: 0.5
+  lifetime: 1
   quad1: {fileID: 4070897255045468}
   quad2: {fileID: 4194090997096914}
   particles: {fileID: 198226642322114562}

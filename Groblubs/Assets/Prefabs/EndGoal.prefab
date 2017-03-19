@@ -165,7 +165,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1623131063104064}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.89, y: 3.5, z: 0}
+  m_LocalPosition: {x: -13.89, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4290833883213356}
@@ -454,7 +454,7 @@ MonoBehaviour:
   rotationSpeed2: -180
   scaleInSpeed: 2
   scaleOutSpeed: 5
-  lifetime: 0.5
+  lifetime: 1
   quad1: {fileID: 4222521177252786}
   quad2: {fileID: 4450135665584132}
   particles: {fileID: 198890649243385704}

@@ -71,7 +71,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4933969053075890}
   - component: {fileID: 65101825686462076}
-  m_Layer: 2
+  m_Layer: 11
   m_Name: Danger
   m_TagString: Hazard
   m_Icon: {fileID: 0}
@@ -150,7 +150,7 @@ Transform:
   m_GameObject: {fileID: 1845059958831882}
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: -0.14959905, z: -0.13274089}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.5, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4090757740492156}
   m_RootOrder: 0
@@ -177,7 +177,7 @@ Transform:
   m_GameObject: {fileID: 1814261093519768}
   m_LocalRotation: {x: 0, y: 0.7071068, z: -0.7071068, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4299349953786468}
   m_RootOrder: 0
@@ -208,7 +208,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 32556bae7f4a8a9449c236f7f318fc27, type: 2}
+  - {fileID: 2100000, guid: 4f196d9ae1eb1dc43aeb9ca9760dd573, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -239,7 +239,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 32556bae7f4a8a9449c236f7f318fc27, type: 2}
+  - {fileID: 2100000, guid: 107d974e635a0cf42b8fe152bb88ac07, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -355,8 +355,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.3, y: 0.3, z: 1.32}
-  m_Center: {x: 0, y: -0.1, z: 0.65}
+  m_Size: {x: 0.3, y: 0.37299007, z: 1.32}
+  m_Center: {x: 0.0000000019867819, y: -0.13649505, z: 0.65000033}
 --- !u!65 &65882169163428398
 BoxCollider:
   m_ObjectHideFlags: 1
