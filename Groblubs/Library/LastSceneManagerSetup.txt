@@ -2,3 +2,6 @@ sceneSetups:
 - path: Assets/Scenes/Spikes.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Scenes/Init.unity
+  isLoaded: 1
+  isActive: 0

@@ -10,6 +10,6 @@ public class AudioCreator : MonoBehaviour
 	void Start ()
     {
         DontDestroyOnLoad(gameObject);
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("Spikes");
 	}
 }

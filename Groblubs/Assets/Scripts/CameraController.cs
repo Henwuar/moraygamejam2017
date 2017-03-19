@@ -21,17 +21,23 @@ public class CameraController : MonoBehaviour
     {
         lookAtPos = transform.position + transform.forward;
         spawnPoint = GameObject.Find("Spawn");
-	}
+        transform.position = GameObject.FindGameObjectWithTag("Treasure").transform.position - transform.forward * 2;
+    }
 	
 	// Update is called once per frame
 	void Update ()
     {
-        Vector3 averagePos = Vector3.zero;
+        Vector3 averagePos;// = GameObject.FindGameObjectWithTag("Treasure").transform.position;
         Vector3 averageForward = Vector3.zero;
         if (following)
         {
             averagePos = following.transform.position;
             averageForward = following.transform.forward;
+        }
+        else
+        {
+            averagePos = GameObject.FindGameObjectWithTag("Treasure").transform.position;
+            averageForward = Vector3.zero; 
         }
 
         GameObject[] minions = GameObject.FindGameObjectsWithTag("Minion");
